@@ -1,3 +1,5 @@
+Maintained here: https://gitlab.com/Winnus/antclust
+
 # ANTCLUST
 
 This project is a Python build of ANTCLUST, a clustering algorithm based on the chemical recognition system of ants which was developed by Nicolas Labroche et al. [0].
