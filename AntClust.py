@@ -217,6 +217,7 @@ class AntClust:
 
     def __meet(self):
         """let ants meet"""
+        number_of_ants = len(self.ants)
         iterations_left = self.meeting_iterations
         while iterations_left:
             # print meetings
